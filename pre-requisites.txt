@@ -1,0 +1,34 @@
+To optimize your chances for a successful application to our Self-Driving Car Engineer Nanodegree program, we’ve created a list of prerequisites and recommendations to help prepare you for the program curriculum. Prior to applying, you should consider taking our Intro to Self-Driving Car Nanodegree program (it's build for this reason) or have the following knowledge:
+
+Intermediate Python (Classes, Data structures)
+Intermediate C++ (Classes, Memory management, Linking)
+Basic Linear Algebra (Matrices, Vectors, Matrix multiplication)
+Basic Calculus (Derivatives, Integrals)
+Basic Statistics (Mean, Standard deviation, Gaussian distribution)
+Basic Physics (Forces)
+Certain knowledge areas are particularly important to address, and we recommended the following resources for those wishing to refine their skills in these key arenas:
+
+Python - The free Introduction To Python Programming Course on Udacity
+Probability - Khan Academy's great probability lectures
+Linear Algebra - Khan Academy's great linear algebra lectures
+Calculus - Khan Academy's great multivariable calculus lectures
+We also recommend the following suite of Udacity courses as excellent preparation for incoming students:
+
+Artificial Intelligence for Robotics
+Intro to Machine Learning
+Intro to Data Science
+Machine Learning Engineer Nanodegree program
+Data Analyst Nanodegree program
+Intro to Programming Nanodegree program
+For those aspiring Self-Driving Car Engineers who currently have limited backgrounds in either programming or math, we recommend the following Nanodegree programs and courses:
+
+Programming foundations with Python (course)
+Intro to Programming (Nanodegree program)
+Data Analyst (Nanodegree program)
+And for those who have programming and math backgrounds, but would benefit from additional studies in machine learning and/or computer vision:
+
+Intro to Machine Learning (course)
+Intro to Data Science (course)
+Intro to Computer Vision (course)
+Artificial Intelligence for Robotics (course)
+Machine Learning Engineer (Nanodegree program)

@@ -1,0 +1,7 @@
+I have always seen myself as a continuous learner; throughout my career I have always tried to challenge myself to learn new skills that I could use in cutting edge fields of engineering. I started as a teaching assistant in Mechanics and trained myself to become a design engineer and afterwards a numerical analysis engineer (FEA and CFD).
+
+I have a genuine interest in cars, at the moment working with a high performance car company in the UK; the work I am doing is close to data analysis (finite element analysis and systems simulation) and involves lots of critical thinking and scrutinizing results.
+
+I have some Python programming experience and I am familiar with Python's main specific libraries, in particular NumPy, Pandas and Matplotlib. I have reasonable understanding of college-level maths as well: calculus, linear algebra, probabilities and statistics. I have have also been attending an introductory course in Machine Learning through the Coursera platform, given by Stanford professor Andrew Ng; in this course I have implemented in Matlab the algorithms used to date in supervised and unsupervised learning.
+
+Through this program I want to develop my skills in machine learning and artificial intelligence in order to extend my career in the field of self driving cars.
