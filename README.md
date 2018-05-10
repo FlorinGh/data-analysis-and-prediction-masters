@@ -2,7 +2,7 @@
 
 **PREREQUISITES • 6 COURSES**
 
-- [ ]  Algorithmic Toolbox (33 hours)  
+- [-]  Algorithmic Toolbox (33 hours)  
 - [ ]  Data Structures (31 hours)  
 - [ ]  Algorithms on Graphs (18 hours)  
 - [ ]  Algorithms on Strings (19 hours)  
