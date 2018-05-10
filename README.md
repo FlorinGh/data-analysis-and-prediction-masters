@@ -33,9 +33,9 @@
 - [ ]  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (14 hours)  
 - [ ]  Structuring Machine Learning Projects (6 hours)  
 - [ ]  Convolutional Neural Networks (20 hours)  
-- [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) | Udacity
+- [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) | **Udacity**  
 
-**ELECTIVES • 4 COURSES**
+**ELECTIVES • 15 COURSES**
 
 - [ ]  How to Win a Data Science Competition: Learn from Top Kagglers(46 hours total)
 - [ ]  Bayesian Methods for Machine Learning(38 hours total)
