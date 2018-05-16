@@ -5,7 +5,7 @@
 &npsp; &npsp; &npsp; Reading and writing with a variety of file formats and data stores
 
 *Preparation:*  
-&npsp; &npsp; &npsp; Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis
+> Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis
 
 *Transformation:*  
 &npsp; &npsp; &npsp; 
