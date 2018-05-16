@@ -2,20 +2,20 @@
 
 ### Objectives:
 *Interacting with the outside world:*  
-Reading and writing with a variety of file formats and data stores
+Reading and writing with a variety of file formats and data stores.  
 
 *Preparation:*  
-Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis
+Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis.  
 
 *Transformation:*  
-Applying mathematical and statistical operations to groups of datasets to derive new datasets (aggreating a large table by group variables, augmenting images for a image recognitions algorithm).
+Applying mathematical and statistical operations to groups of datasets to derive new datasets (aggreating a large table by group variables, augmenting images for a image recognitions algorithm).  
 
 
 *Modeling and computation:*  
-Connecting your data to statistical models, machine learning algorithms or other computational tools
+Connecting your data to statistical models, machine learning algorithms or other computational tools  
 
 *Presentation:*  
-Creating interactive os static graphical visualization or textual summaries
+Creating interactive os static graphical visualization or textual summaries  
 
 
 
