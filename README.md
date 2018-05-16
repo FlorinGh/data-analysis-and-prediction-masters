@@ -1,20 +1,20 @@
 # Masters in Data Analysis and Prediction
 
 ### Objectives:
-*Interacting with the outside world:*
+*Interacting with the outside world:*  
 &npsp; &npsp; &npsp; Reading and writing with a variety of file formats and data stores
 
-*Preparation:*
+*Preparation:*  
 &npsp; &npsp; &npsp; Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis
 
-*Transformation:*
+*Transformation:*  
 &npsp; &npsp; &npsp; 
 
 
-*Modeling and computation:*
+*Modeling and computation:*  
 &npsp; &npsp; &npsp; 
 
-*Presentation*
+*Presentation:*  
 &npsp; &npsp; &npsp; 
 
 
