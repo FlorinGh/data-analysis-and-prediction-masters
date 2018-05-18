@@ -22,6 +22,7 @@ Creating interactive os static graphical visualization or textual summaries
 **PREREQUISITES • 6 COURSES**
 
 - [ ]  Algorithmic Toolbox (33 hours) | **WIP**
+* Greedy algorithms, Divide and conquer, Dynamic Programming  
 - [ ]  Data Structures (31 hours)  
 - [ ]  Algorithms on Graphs (18 hours)  
 - [ ]  Algorithms on Strings (19 hours)  
