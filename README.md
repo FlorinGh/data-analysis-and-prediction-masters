@@ -1,28 +1,18 @@
 # Masters in Data Analysis and Prediction
 
 ### Objectives:
-*Interacting with the outside world:*  
-Reading and writing with a variety of file formats and data stores.  
-
-*Preparation:*  
-Cleaning, munging, combining, normalizing, reshaping, slicing and dicing, and transforming data for analysis.  
-
-*Transformation:*  
-Applying mathematical and statistical operations to groups of datasets to derive new datasets (aggreating a large table by group variables, augmenting images for a image recognitions algorithm).  
-
-
-*Modeling and computation:*  
-Connecting your data to statistical models, machine learning algorithms or other computational tools  
-
-*Presentation:*  
-Creating interactive os static graphical visualization or textual summaries  
-
+To get a strong foundation of teh skills required in data analysis and machine learning.  
+The main directions of development are:
+- [ ] Theory: probabilities, algebra, machine learning
+- [ ] Good programming skills in Python, C++ or Java
+- [ ] Good use of tools in data analysis and machine learning, ideally in more than one language
+- [ ] Database knowledge: SQL, Postgres
+- [ ] Lots of practice and projects to show
 
 
 **PREREQUISITES • 6 COURSES**
 
-- [ ]  Algorithmic Toolbox (33 hours) | **WIP**
-* Greedy algorithms, Divide and conquer, Dynamic Programming  
+- [ ]  Algorithmic Toolbox (33 hours) | **WIP** *Greedy algorithms, Divide and Conquer, Dynamic Programming with Python and C++*  
 - [ ]  Data Structures (31 hours)  
 - [ ]  Algorithms on Graphs (18 hours)  
 - [ ]  Algorithms on Strings (19 hours)  
