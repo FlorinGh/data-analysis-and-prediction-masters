@@ -8,6 +8,7 @@ The main directions of development are:
 - [ ] Good use of tools in data analysis and machine learning, ideally in more than one language
 - [ ] Database knowledge: SQL, Postgres
 - [ ] Lots of practice and projects to show
+- [ ] You must network continually to broaden your contacts
 
 
 **PREREQUISITES • 6 COURSES**
