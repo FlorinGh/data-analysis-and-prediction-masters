@@ -1,17 +1,21 @@
-# Masters in Data Analysis and Prediction
+# Masters in Software Development
 
 ### Objectives:
-To get a strong foundation of teh skills required in data analysis and machine learning.  
-The main directions of development are:
-- [ ] Theory: probabilities, algebra, machine learning
-- [ ] Good programming skills in Python, C++ or Java
-- [ ] Good use of tools in data analysis and machine learning, ideally in more than one language
-- [ ] Database knowledge: SQL, Postgres
-- [ ] Lots of practice and projects to show
-- [ ] You must network continually to broaden your contacts
+Get a strong foundation of tech skills required in software development.  
+Build relevant projects to learn even more skills and combine them in creative ways.  
+Get job in the industry.  
 
+The main directions of development are:  
+- [ ] Theory: probabilities, algebra, data analysis, machine learning, how to write clean code  
+- [ ] Good programming skills: Python, C++ and Java  
+- [ ] Software and web development: Javascript, CSS, HTML, Reac Native and Angular  
+- [ ] Data analysis tools: pandas, matplotlib, Tableau and Excel  
+- [ ] Machine learning tools: sckit learn, TensorFlow, keras, openCV and kaagle  
+- [ ] Database management systems: PostgresSQL, Microsoft SQL, MongoDB and Django  
+- [ ] Devops Tools: Linux, Docker, Redux, Git and Jenkins and Vim  
+- [ ] You must network continually to broaden your contacts  
 
-**PREREQUISITES • 6 COURSES**
+**PROGRAMMING • 6 COURSES • coursera**
 
 - [ ]  Algorithmic Toolbox (33 hours) | **WIP** *Greedy algorithms, Divide and Conquer, Dynamic Programming with Python and C++*  
 - [ ]  Data Structures (31 hours)  
@@ -19,6 +23,15 @@ The main directions of development are:
 - [ ]  Algorithms on Strings (19 hours)  
 - [ ]  Advanced Algorithms and Complexity (29 hours)  
 - [ ]  Genome Assembly Programming Challenge (11 hours)  
+
+**SOFTWARE AND WEB DEVELOPMENT • 6 COURSES • freecodecamp** 
+
+- [ ]  Responsive Web Design Certification (300 hours)   
+- [ ]  Javascript Algorithms And Data Structures Certification (300 hours) 
+- [ ]  Front End Libraries Certification (300 hours) 
+- [ ]  Data Visualization Certification (300 hours) 
+- [ ]  Apis And Microservices Certification (300 hours) 
+- [ ]  Information Security And Quality Assurance Certification (300 hours) 
 
 **DATA ANALYSIS • 6 COURSES**
 
@@ -29,7 +42,7 @@ The main directions of development are:
 - [ ]  Applied Text Mining in Python (18 hours)  
 - [ ]  Applied Social Network Analysis in Python (18 hours)  
 
-**PREDICTIVE MODELLING / MACHINE LEARNING • 7 COURSES**
+**MACHINE LEARNING • 11 COURSES**
 
 - [ ]  Machine Learning Foundations: A Case Study Approach (22 hours)  
 - [ ]  Machine Learning: Regression (28 hours)  
@@ -38,13 +51,30 @@ The main directions of development are:
 - [ ]  Big Data Essentials: HDFS, MapReduce and Spark RDD (41 hours)  
 - [ ]  Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames (43 hours)  
 - [ ]  Big Data Applications: Machine Learning at Scale (22 hours total)  
-
-**ADVANCED MACHINE LEARNING • 4 COURSES**
-
 - [ ]  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (14 hours)  
 - [ ]  Structuring Machine Learning Projects (6 hours)  
 - [ ]  Convolutional Neural Networks (20 hours)  
 - [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) | **Udacity**  
+
+**DATABASE MANAGEMENT SYSTEMS • x COURSES • plurasight**
+
+- [ ]  PostgresSQL
+- [ ]  Microsoft SQL
+- [ ]  MongoDB
+- [ ]  Django
+
+**DATABASE MANAGEMENT SYSTEMS • x COURSES**
+
+- [ ]  Linux
+- [ ]  Docker
+- [ ]  Redux
+- [ ]  Git
+- [ ]  Jenkins
+
+**BOOKS**
+
+- [ ]  The Pragmatic Programmer by Andrew Hunt
+- [ ]  Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 **ELECTIVES • 15 COURSES**
 
@@ -63,44 +93,3 @@ The main directions of development are:
 - [ ]  Serverless Data Analysis with Google BigQuery and Cloud Dataflow(6 hours total)
 - [ ]  Serverless Machine Learning with Tensorflow on Google Cloud Platform(8 hours total)
 - [ ]  Building Resilient Streaming Systems on Google Cloud Platform(6 hours total)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
