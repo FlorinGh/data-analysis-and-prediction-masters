@@ -8,7 +8,7 @@ Get job in the industry.
 The main directions of development are:  
 - [ ] Theory: probabilities, algebra, data analysis, machine learning, how to write clean code  
 - [ ] Good programming skills: Python, C++ and Java  
-- [ ] Software and web development: Javascript, CSS, HTML, Reac Native and Angular  
+- [ ] Software and web development: Javascript, CSS, HTML, React Native and Angular  
 - [ ] Data analysis tools: pandas, matplotlib, Tableau and Excel  
 - [ ] Machine learning tools: sckit learn, TensorFlow, keras, openCV and kaagle  
 - [ ] Database management systems: PostgresSQL, Microsoft SQL, MongoDB and Django  
@@ -33,17 +33,17 @@ The main directions of development are:
 - [ ]  Apis And Microservices Certification (300 hours) 
 - [ ]  Information Security And Quality Assurance Certification (300 hours) 
 
-**DATA ANALYSIS • 6 COURSES**
+**DATA ANALYSIS • 4 COURSES**
 
 - [x]  Introduction to Data Science in Python (18 hours)  
 - [ ]  Applied Plotting, Charting & Data Representation in Python (18 hours)
-- [x]  Machine Learning (54 hours)  
-- [ ]  Applied Machine Learning in Python (24 hours)  
 - [ ]  Applied Text Mining in Python (18 hours)  
 - [ ]  Applied Social Network Analysis in Python (18 hours)  
 
-**MACHINE LEARNING • 11 COURSES**
+**MACHINE LEARNING • 13 COURSES**
 
+- [x]  Machine Learning (54 hours)  
+- [ ]  Applied Machine Learning in Python (24 hours)  
 - [ ]  Machine Learning Foundations: A Case Study Approach (22 hours)  
 - [ ]  Machine Learning: Regression (28 hours)  
 - [ ]  Machine Learning: Classification (24 hours)  
