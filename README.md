@@ -14,9 +14,17 @@ The main directions of development are:
 - [ ] Database management systems: PostgresSQL, Microsoft SQL, MongoDB and Django  
 - [ ] Devops Tools: Linux, Docker, Redux, Git and Jenkins and Vim  
 
-**PROGRAMMING • 6 COURSES • coursera**
+**THEORY AND SOFT SKILLS • 3 COURSES**
 
-- [ ]  Algorithmic Toolbox (33 hours) | **WIP** *Greedy algorithms, Divide and Conquer, Dynamic Programming with Python and C++*  
+- [x]  *Learning How to Learn: Powerful mental tools to help you master tough subjects* • **coursera**  
+- [ ]  The Pragmatic Programmer by Andrew Hunt
+- [ ]  Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+**PROGRAMMING • 8 COURSES**
+
+- [x]  *Learn to Program: The Fundamentals with Python* • **coursera**  
+- [x]  *Introduction to Computer Science and Programming* • **MITx**  
+- [ ]  **Algorithmic Toolbox (33 hours)**    
 - [ ]  Data Structures (31 hours)  
 - [ ]  Algorithms on Graphs (18 hours)  
 - [ ]  Algorithms on Strings (19 hours)  
@@ -28,21 +36,21 @@ The main directions of development are:
 - [ ]  Responsive Web Design Certification (300 hours)   
 - [ ]  Javascript Algorithms And Data Structures Certification (300 hours) 
 - [ ]  Front End Libraries Certification (300 hours) 
-- [ ]  Data Visualization Certification (300 hours) 
+- [ ]  **Data Visualization Certification (300 hours)** 
 - [ ]  Apis And Microservices Certification (300 hours) 
 - [ ]  Information Security And Quality Assurance Certification (300 hours) 
 
 **DATA ANALYSIS • 4 COURSES**
 
-- [x]  Introduction to Data Science in Python (18 hours)  
+- [x]  *Introduction to Data Science in Python (18 hours)* • **coursera**  
 - [ ]  Applied Plotting, Charting & Data Representation in Python (18 hours)
 - [ ]  Applied Text Mining in Python (18 hours)  
 - [ ]  Applied Social Network Analysis in Python (18 hours)  
 
 **MACHINE LEARNING • 13 COURSES**
 
-- [x]  Machine Learning (54 hours) • **coursera**  
-- [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) • **Udacity**  
+- [x]  *Machine Learning (54 hours)* • **coursera**  
+- [x]  *Machine Learning and Computer Vision for Self Driving Cars (129 hours)* • **Udacity**  
 - [ ]  Applied Machine Learning in Python (24 hours)  
 - [ ]  Machine Learning Foundations: A Case Study Approach (22 hours)  
 - [ ]  Machine Learning: Regression (28 hours)  
@@ -69,11 +77,6 @@ The main directions of development are:
 - [ ]  Redux
 - [ ]  Git
 - [ ]  Jenkins
-
-**BOOKS**
-
-- [ ]  The Pragmatic Programmer by Andrew Hunt
-- [ ]  Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 **ELECTIVES • 15 COURSES**
 
