@@ -2,18 +2,17 @@
 
 ### Objectives:
 Get a strong foundation of tech skills required in software development.  
-Build relevant projects to learn even more skills and combine them in creative ways.  
+Build relevant projects to acquire even more skills and combine them in creative ways.  
 Get job in the industry.  
 
 The main directions of development are:  
 - [ ] Theory: probabilities, algebra, data analysis, machine learning, how to write clean code  
-- [ ] Good programming skills: Python, C++ and Java  
+- [ ] Programming languages: Python, C++ and Java  
 - [ ] Software and web development: Javascript, CSS, HTML, React Native and Angular  
-- [ ] Data analysis tools: pandas, matplotlib, Tableau and Excel  
-- [ ] Machine learning tools: sckit learn, TensorFlow, keras, openCV and kaagle  
+- [ ] Data analysis: pandas, matplotlib, Tableau and Excel  
+- [ ] Machine learning: sckit learn, TensorFlow, keras, openCV and kaagle  
 - [ ] Database management systems: PostgresSQL, Microsoft SQL, MongoDB and Django  
 - [ ] Devops Tools: Linux, Docker, Redux, Git and Jenkins and Vim  
-- [ ] You must network continually to broaden your contacts  
 
 **PROGRAMMING • 6 COURSES • coursera**
 
@@ -42,7 +41,8 @@ The main directions of development are:
 
 **MACHINE LEARNING • 13 COURSES**
 
-- [x]  Machine Learning (54 hours)  
+- [x]  Machine Learning (54 hours) • **coursera**  
+- [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) • **Udacity**  
 - [ ]  Applied Machine Learning in Python (24 hours)  
 - [ ]  Machine Learning Foundations: A Case Study Approach (22 hours)  
 - [ ]  Machine Learning: Regression (28 hours)  
@@ -54,9 +54,8 @@ The main directions of development are:
 - [ ]  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (14 hours)  
 - [ ]  Structuring Machine Learning Projects (6 hours)  
 - [ ]  Convolutional Neural Networks (20 hours)  
-- [x]  Machine Learning and Computer Vision for Self Driving Cars (129 hours) | **Udacity**  
 
-**DATABASE MANAGEMENT SYSTEMS • x COURSES • plurasight**
+**DATABASE MANAGEMENT SYSTEMS • x COURSES • pluralsight**
 
 - [ ]  PostgresSQL
 - [ ]  Microsoft SQL
