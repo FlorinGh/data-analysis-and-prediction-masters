@@ -17,6 +17,7 @@ The main directions of development are:
 **THEORY AND SOFT SKILLS • 3 COURSES**
 
 - [x]  *Learning How to Learn: Powerful mental tools to help you master tough subjects* • **coursera**  
+- [ ]  **Machine Learning Yearning** • **Andrew Ng**  
 - [ ]  The Pragmatic Programmer by Andrew Hunt
 - [ ]  Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
