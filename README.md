@@ -7,7 +7,7 @@ Get job in the industry.
 
 The main directions of development are:  
 - [ ] Theory: probabilities, algebra, data analysis, machine learning, how to write clean code  
-- [ ] Programming languages: Python, C++ and Java  
+- [ ] Programming languages: Python, C++ and Java; [know a language extremely well rather than three poorly]
 - [ ] Software and web development: Javascript, CSS, HTML, React Native and Angular  
 - [ ] Data analysis: pandas, matplotlib, Tableau and Excel  
 - [ ] Machine learning: sckit learn, TensorFlow, keras, openCV and kaagle  
@@ -25,19 +25,19 @@ The main directions of development are:
 
 - [x]  **Learn to Program: The Fundamentals with Python • coursera**  
 - [x]  **Introduction to Computer Science and Programming • MITx**  
-- [ ]  *Algorithmic Toolbox (33 hours)*    
-- [ ]  Data Structures (31 hours)  
-- [ ]  Algorithms on Graphs (18 hours)  
-- [ ]  Algorithms on Strings (19 hours)  
-- [ ]  Advanced Algorithms and Complexity (29 hours)  
-- [ ]  Genome Assembly Programming Challenge (11 hours)  
+- [ ]  *Algorithmic Toolbox (33 hours)* **etd: w25**    
+- [ ]  Data Structures (31 hours) **etd: w27**  
+- [ ]  Algorithms on Graphs (18 hours) **etd: w29**  
+- [ ]  Algorithms on Strings (19 hours) **etd: w31**  
+- [ ]  Advanced Algorithms and Complexity (29 hours) **etd: w33**
+- [ ]  Genome Assembly Programming Challenge (11 hours) **etd: w35**
 
 **SOFTWARE AND WEB DEVELOPMENT • 6 COURSES • freecodecamp** 
 
-- [ ]  Responsive Web Design Certification (300 hours)   
+- [ ]  Responsive Web Design Certification (300 hours) **etd: w28**
 - [ ]  Javascript Algorithms And Data Structures Certification (300 hours) 
 - [ ]  Front End Libraries Certification (300 hours) 
-- [ ]  *Data Visualization Certification (300 hours)* 
+- [ ]  *Data Visualization Certification (300 hours)* **etd: w25**
 - [ ]  Apis And Microservices Certification (300 hours) 
 - [ ]  Information Security And Quality Assurance Certification (300 hours) 
 
