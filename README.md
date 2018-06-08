@@ -1,4 +1,4 @@
-# Masters in Software Development
+# Software Development Program
 
 ### Objectives:
 Get a strong foundation of tech skills required in software development.  
